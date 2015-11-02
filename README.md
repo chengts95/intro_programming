@@ -1,7 +1,10 @@
 A collection of IPython Notebooks for teaching Python.
 ---
 
-[![Join the chat at https://gitter.im/SRTP/intro_programming](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SRTP/intro_programming?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+需要中文教程请戳 [这里](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)里面也有git的教程.
+
+
+[![Join the chat at https://gitter.im/SRTP/intro_programming](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SRTP/intro_programming?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)在gitter讨论问题需要掌握markdown,同时本文也是用markdown写的.
 
 This project is the basis of [introtopython.org](http://introtopython.org), an open resource for teaching and learning Python. The site teaches the basics of Python, and then teaches people to build projects in Python. If you know how to work with IPython notebooks, you can contribute to the project.
 
