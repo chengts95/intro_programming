@@ -1,6 +1,8 @@
 A collection of IPython Notebooks for teaching Python.
 ---
 
+[![Join the chat at https://gitter.im/SRTP/intro_programming](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SRTP/intro_programming?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is the basis of [introtopython.org](http://introtopython.org), an open resource for teaching and learning Python. The site teaches the basics of Python, and then teaches people to build projects in Python. If you know how to work with IPython notebooks, you can contribute to the project.
 
 You can also view the raw notebooks using the IPython Notebook Viewer ([home page](http://nbviewer.ipython.org/urls/raw.github.com/ehmatthes/intro_programming/master/notebooks/index.ipynb). The content is almost identical on both sites, but the [introtopython.org](http://introtopython.org) version is easier to navigate, and has some dynamic js features such as collapsible output.
