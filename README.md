@@ -11,7 +11,7 @@ A collection of IPython Notebooks for teaching Python.
 
 英文教程在下面[introtopython.org](http://introtopython.org)，主要用于外国高中生。其中开发环境安装可以不按照他们的说明来。
 所有用到的notebook都在本仓库notebook文件夹里，建议把这个仓库clone到本地学习.
-windows开发环境配置见[windows Python环境配置](https://github.com/chengts95/intro_programming/blob/master/windows%20Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.html).
+windows开发环境配置见[windows Python环境配置](https://github.com/chengts95/intro_programming/blob/master/windows%20Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.ipynb).
 
 This project is the basis of [introtopython.org](http://introtopython.org), an open resource for teaching and learning Python. The site teaches the basics of Python, and then teaches people to build projects in Python. If you know how to work with IPython notebooks, you can contribute to the project.
 
